@@ -19,3 +19,12 @@ h1{
 p{
     font-size: 25px;
 }
+
+section{
+background-color: chartreuse;
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+
+}
