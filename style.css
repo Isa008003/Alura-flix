@@ -1,5 +1,5 @@
 body{
-    background-color: hsla(6, 66%, 70%, 1.00);
+    background-color: rgb(29, 24, 24);
     color: crimson;
     font-family: "Dosis", sans-serif;
     margin: 0px;
@@ -7,7 +7,7 @@ body{
 
 header{
     font-size: 55px;
-    border-top:  solid 10px rgb(187, 238, 110);
+    border-top:  solid 10px rgb(21, 157, 219);
     /*margin: 30px;*/
     padding: 30px;
 }
@@ -21,7 +21,7 @@ p{
 }
 
 section{
-background-color: chartreuse;
+background-color: rgb(255, 94, 0);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
